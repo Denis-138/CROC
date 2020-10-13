@@ -1,6 +1,4 @@
-package com.company;
-
-public class Main {
+public class lesson0710 {
     public Main() {
     }
 

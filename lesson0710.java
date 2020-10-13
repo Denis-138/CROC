@@ -9,7 +9,7 @@ public class lesson0710 {
             } else if (i % 3 == 0) {
                 System.out.println("Fizz");
             } else if (i % 5 == 0) {
-                System.out.println("Buze");
+                System.out.println("Buzz");
             } else {
                 System.out.println(i);
             }
